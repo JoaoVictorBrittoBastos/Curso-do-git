@@ -34,3 +34,4 @@ git checkout no commit do log
 alterei o value e usei git status e depois git diff e mostrou o que foi alterado, depois usei git checkout gitcoursee.txt e então ele voltou ao que era antes
 git reset desfaz tudo
 git clean -f apaga os arq que foram adicionados
+Usei o git clone para clonar um repositório dentro do github.
