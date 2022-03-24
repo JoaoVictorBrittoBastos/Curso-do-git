@@ -35,3 +35,4 @@ alterei o value e usei git status e depois git diff e mostrou o que foi alterado
 git reset desfaz tudo
 git clean -f apaga os arq que foram adicionados
 Usei o git clone para clonar um repositório dentro do github.
+cd .. Volta para o caminho anterior
