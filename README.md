@@ -33,6 +33,8 @@ git log que mostra todas as alterações e gera um "cha" q associa um commit a u
 git checkout no commit do log 
 alterei o value e usei git status e depois git diff e mostrou o que foi alterado, depois usei git checkout gitcoursee.txt e então ele voltou ao que era antes
 git reset desfaz tudo
+git exit fecha o git bash
+
 git clean -f apaga os arq que foram adicionados
 Usei o git clone para clonar um repositório dentro do github.
 cd .. Volta para o caminho anterior
