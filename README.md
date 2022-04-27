@@ -46,3 +46,4 @@ cd .. Volta para o caminho anterior
 -  git push --delete origin "branch" deleta comando no servidor
 -  git branch -m renomeia as branchs
 -  se quiser renomear uma branch chamada TASK-3-Update para TASK-3 por exemplo você tem que chamar: $ git branch -m TASK-3-Update TASK-3
+-  Para renomear no servidor a branch não é possível renomear se enviar para o servidor, você teria que apagar e criar de novo.
